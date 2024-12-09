@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #4 from leoviana00/feature/setup/cluster [View](https://github.com/leoviana00/lab-study-cks/commits/d5526c0d3cae20b4b50b7aeebabeaa4926b19e18)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-study-cks/commits/e3e4cd33266b1455d5dcd2e791e8d73c3ccc1f59)
+*  feat(ignore): add gitignore [View](https://github.com/leoviana00/lab-study-cks/commits/89983e3ff4a9b44ab13e70dc13f035b16a84e2d7)
 
 
 
